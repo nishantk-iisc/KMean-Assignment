@@ -1,4 +1,4 @@
-# KMean-Assignment
+## KMean-Assignment
 given an RGB image of Shape 512 X 512 X 3. Each Pixel of image is considered to a data point
 
 ## TASK
